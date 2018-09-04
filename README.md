@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/RachelAbaniwo/mentor-me.svg?branch=authentication)](https://travis-ci.org/RachelAbaniwo/mentor-me)
+
 # mentor-me
 Mentorship application
 # README
